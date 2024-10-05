@@ -91,7 +91,7 @@ a:hover {
 
 p {
 	margin-bottom: 24px;
-	font-size: 0.9em;
+	font-size: 1em;
 	font-weight: 300;
 	line-height: 1.6;
 
@@ -103,7 +103,7 @@ p:last-child {
 }
 
 p.intro {
-	font-size: 0.9em;
+	font-size: 1em;
 }
 
 ul {
