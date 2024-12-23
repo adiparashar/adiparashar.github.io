@@ -214,3 +214,14 @@ pre {
     border-radius: 1em;
     border: 2px solid #ffffff;
 }
+
+#clustrmaps-container {
+    width: 100px; /* Set desired width */
+    height: 100px; /* Set desired height */
+    overflow: hidden; /* Hide overflow content if necessary */
+  }
+
+  #clustrmaps {
+    width: 100%; /* Ensure the script adapts to the container */
+    height: 100%;
+  }
