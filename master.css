@@ -216,8 +216,8 @@ pre {
 }
 
 #clustrmaps-container {
-    width: 5px; /* Set desired width */
-    height: 5px; /* Set desired height */
+    width: 10px; /* Set desired width */
+    height: 10px; /* Set desired height */
     overflow: hidden; /* Hide overflow content if necessary */
   }
 
